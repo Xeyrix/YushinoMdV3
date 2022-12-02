@@ -39,7 +39,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'levi 😸', true],
+['6281280029649', 'levi 😸', true],
 ['6285757256591', 'qory 😸', true]
 ]
 global.mods = []
